@@ -2,3 +2,9 @@ requests==2.26.0
 beautifulsoup4==4.10.0
 requests-cache==0.6.4
 pymongo==4.0.1
+slack_sdk==3.11.2
+python-dotenv==0.19.2
+Flask==1.1.4
+slackeventsapi==2.2.1
+certifi==2021.10.8
+redis==3.5.3
